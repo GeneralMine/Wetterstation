@@ -1,0 +1,15 @@
+Nr.	Anzahl	Bezeichnung			tech. Details	Abmessungen	Produkt-ID
+1	1	X	Arduino 			innen 18kO		70x50x10
+2	1	X	LCD-Display			4/20			98x60x10
+3	2	X	Batteriepack		2x 2x1.5V	
+4 	1	X	An/Aus-Knopf
+5	1	X	Stromquellenknopf
+6 	1	X	Kontrast-Poti		10kO
+7	1	X	Helligkeit-Poti		10kO
+8	1	X	Updateknopf			20mm /Ox
+9	1	X	Strombuchse
+10	1	X	Kondensator			max. 12V, 5µF				RAD 22/1 	(reichelt.de)
+11	1	X	Zenerdiode			12V 5W						ZD-5W 12V	(reichelt.de)
+12	1	X	Feuchtesensor									DHT11
+13	1	X	Luftdrucksensor									25452AP-17
+14	1	X	Waermesensor									LM35

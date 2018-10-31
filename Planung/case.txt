@@ -1,0 +1,7 @@
+(Bezeichnung von oben)
+Nr.	AnzahL	Bezeichnung		Werkstoff			Abmessungen	
+1	2	X	Deckel/Boden	Furniersperrholz	200x150x10
+2	2	X	oben/unten		Furniersperrholz	180x80x10
+3	4	X	links/rechts	Furniersperrholz	80x30x10
+4	2		Schutznetz		Metallnetz			90x80x1
+5	1	X	Leiterplatinen	Einzellochig		
